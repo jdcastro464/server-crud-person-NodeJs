@@ -1,0 +1,133 @@
+2021-07-18 18:00:50:050 info: Servidor corriendo en http://localhost:3000
+2021-07-18 18:00:50:050 info: POST /validate/token 200 72.881 ms - 228
+2021-07-18 18:00:50:050 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 18:00:50:050 info: POST /validate/addUser 200 48.804 ms - 22
+2021-07-18 18:00:50:050 info: GET /person/getPersons 200 6.768 ms - 22
+2021-07-18 18:00:50:050 info: GET /person/getPersons/1 200 4.512 ms - 22
+2021-07-18 18:04:49:449 info: Servidor corriendo en http://localhost:3000
+2021-07-18 18:04:49:449 info: POST /validate/token 200 72.918 ms - 228
+2021-07-18 18:04:49:449 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 18:04:49:449 info: POST /validate/addUser 200 11.461 ms - 22
+2021-07-18 18:04:49:449 info: GET /person/getPersons 200 5.587 ms - 22
+2021-07-18 18:04:49:449 info: GET /person/getPersons/1 200 4.648 ms - 22
+2021-07-18 18:04:49:449 info: POST /person/addPerson 200 8.804 ms - 38
+2021-07-18 18:05:14:514 info: Servidor corriendo en http://localhost:3000
+2021-07-18 18:05:14:514 info: POST /validate/token 200 76.088 ms - 228
+2021-07-18 18:05:14:514 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 18:05:14:514 info: POST /validate/addUser 200 52.271 ms - 22
+2021-07-18 18:05:14:514 info: GET /person/getPersons 200 5.970 ms - 119
+2021-07-18 18:05:14:514 info: GET /person/getPersons/1 200 3.972 ms - 119
+2021-07-18 18:05:14:514 error: [response error] Documento(s) registrado(s)
+2021-07-18 18:05:14:514 info: POST /person/addPerson 500 10.139 ms - 48
+2021-07-18 18:08:01:81 info: Servidor corriendo en http://localhost:3000
+2021-07-18 18:08:01:81 info: POST /validate/token 200 80.493 ms - 228
+2021-07-18 18:08:01:81 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 18:08:01:81 info: POST /validate/addUser 200 13.058 ms - 22
+2021-07-18 18:08:02:82 info: GET /person/getPersons 200 7.580 ms - 119
+2021-07-18 18:08:02:82 info: GET /person/getPersons/1 200 4.769 ms - 119
+2021-07-18 18:08:02:82 error: [response error] Documento(s) registrado(s)
+2021-07-18 18:08:02:82 info: POST /person/addPerson 500 17.244 ms - 48
+2021-07-18 18:09:24:924 info: Servidor corriendo en http://localhost:3000
+2021-07-18 18:09:24:924 info: POST /validate/token 200 80.140 ms - 228
+2021-07-18 18:09:24:924 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 18:09:24:924 info: POST /validate/addUser 200 11.552 ms - 22
+2021-07-18 18:09:24:924 info: GET /person/getPersons 200 6.205 ms - 119
+2021-07-18 18:09:24:924 info: GET /person/getPersons/1 200 5.102 ms - 119
+2021-07-18 18:09:24:924 error: [response error] Documento(s) registrado(s)
+2021-07-18 18:09:24:924 info: POST /person/addPerson 500 14.079 ms - 48
+2021-07-18 18:14:43:1443 info: Servidor corriendo en http://localhost:3000
+2021-07-18 18:14:44:1444 info: POST /validate/token 200 79.832 ms - 228
+2021-07-18 18:14:44:1444 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 18:14:44:1444 info: POST /validate/addUser 200 14.232 ms - 22
+2021-07-18 18:14:44:1444 info: GET /person/getPersons 200 8.529 ms - 119
+2021-07-18 18:14:44:1444 info: GET /person/getPersons/1 200 4.176 ms - 119
+2021-07-18 18:15:40:1540 info: Servidor corriendo en http://localhost:3000
+2021-07-18 18:15:41:1541 info: POST /validate/token 200 78.456 ms - 228
+2021-07-18 18:15:41:1541 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 18:15:41:1541 info: POST /validate/addUser 200 62.104 ms - 22
+2021-07-18 18:15:41:1541 info: GET /person/getPersons 200 8.076 ms - 119
+2021-07-18 18:15:41:1541 info: GET /person/getPersons/1 200 4.965 ms - 119
+2021-07-18 18:16:29:1629 info: Servidor corriendo en http://localhost:3000
+2021-07-18 18:16:29:1629 info: POST /validate/token 200 80.653 ms - 228
+2021-07-18 18:16:29:1629 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 18:16:29:1629 info: POST /validate/addUser 200 64.709 ms - 22
+2021-07-18 18:16:29:1629 info: GET /person/getPersons 200 6.498 ms - 119
+2021-07-18 18:16:29:1629 info: GET /person/getPersons/1 200 5.861 ms - 119
+2021-07-18 18:17:35:1735 info: Servidor corriendo en http://localhost:3000
+2021-07-18 18:17:35:1735 info: POST /validate/token 200 80.555 ms - 228
+2021-07-18 18:17:35:1735 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 18:17:35:1735 info: POST /validate/addUser 200 57.022 ms - 22
+2021-07-18 18:17:35:1735 info: GET /person/getPersons 200 8.096 ms - 119
+2021-07-18 18:17:35:1735 info: GET /person/getPersons/1 200 5.885 ms - 119
+2021-07-18 18:17:35:1735 info: POST /person/addPerson 200 9.092 ms - 38
+2021-07-18 18:17:54:1754 info: Servidor corriendo en http://localhost:3000
+2021-07-18 18:17:54:1754 info: POST /validate/token 200 79.441 ms - 228
+2021-07-18 18:17:54:1754 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 18:17:54:1754 info: POST /validate/addUser 200 16.532 ms - 22
+2021-07-18 18:17:54:1754 info: GET /person/getPersons 200 7.899 ms - 217
+2021-07-18 18:17:54:1754 info: GET /person/getPersons/1 200 4.236 ms - 119
+2021-07-18 18:17:54:1754 info: POST /person/addPerson 200 9.934 ms - 38
+2021-07-18 20:20:43:2043 info: Servidor corriendo en http://localhost:3000
+2021-07-18 20:20:43:2043 info: POST /validate/token 200 95.786 ms - 228
+2021-07-18 20:20:43:2043 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 20:20:43:2043 info: POST /validate/addUser 200 11.063 ms - 22
+2021-07-18 20:20:43:2043 info: GET /person/getPersons 200 8.465 ms - 315
+2021-07-18 20:20:43:2043 info: GET /person/getPersons/1 200 3.733 ms - 119
+2021-07-18 20:20:43:2043 info: POST /person/addPerson 200 9.962 ms - 38
+2021-07-18 20:20:43:2043 info: POST /person/updatePerson 200 8.207 ms - 38
+2021-07-18 20:23:01:231 info: Servidor corriendo en http://localhost:3000
+2021-07-18 20:23:01:231 info: POST /validate/token 200 75.237 ms - 228
+2021-07-18 20:23:01:231 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 20:23:01:231 info: POST /validate/addUser 200 11.444 ms - 22
+2021-07-18 20:23:01:231 info: GET /person/getPersons 200 6.848 ms - 428
+2021-07-18 20:23:01:231 info: GET /person/getPersons/1 200 4.939 ms - 134
+2021-07-18 20:23:01:231 info: POST /person/addPerson 200 8.469 ms - 38
+2021-07-18 20:23:01:231 error: [response error] Documento(s) registrado(s)
+2021-07-18 20:23:01:231 info: POST /person/updatePerson 500 9.746 ms - 48
+2021-07-18 20:23:01:231 error: [response error] "persona.nombre" is required
+2021-07-18 20:23:01:231 info: POST /person/updatePerson 400 7.351 ms - 36
+2021-07-18 20:23:24:2324 info: Servidor corriendo en http://localhost:3000
+2021-07-18 20:23:24:2324 info: POST /validate/token 200 78.070 ms - 228
+2021-07-18 20:23:24:2324 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 20:23:24:2324 info: POST /validate/addUser 200 10.314 ms - 22
+2021-07-18 20:23:24:2324 info: GET /person/getPersons 200 6.876 ms - 526
+2021-07-18 20:23:24:2324 info: GET /person/getPersons/1 200 5.032 ms - 134
+2021-07-18 20:23:24:2324 info: POST /person/addPerson 200 9.672 ms - 38
+2021-07-18 20:23:24:2324 error: [response error] Documento(s) registrado(s)
+2021-07-18 20:23:24:2324 info: POST /person/updatePerson 500 10.483 ms - 48
+2021-07-18 20:23:25:2325 info: POST /person/deletePerson 200 6.809 ms - 38
+2021-07-18 20:24:34:2434 info: Servidor corriendo en http://localhost:3000
+2021-07-18 20:24:34:2434 info: POST /validate/token 200 74.172 ms - 228
+2021-07-18 20:24:34:2434 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 20:24:34:2434 info: POST /validate/addUser 200 59.831 ms - 22
+2021-07-18 20:24:34:2434 info: GET /person/getPersons 200 5.667 ms - 511
+2021-07-18 20:24:34:2434 info: GET /person/getPersons/1 200 3.200 ms - 22
+2021-07-18 20:24:34:2434 info: POST /person/addPerson 200 9.910 ms - 38
+2021-07-18 20:24:34:2434 info: POST /person/updatePerson 200 7.402 ms - 38
+2021-07-18 20:24:34:2434 info: POST /person/deletePerson 200 5.438 ms - 38
+2021-07-18 20:25:18:2518 info: Servidor corriendo en http://localhost:3000
+2021-07-18 20:25:18:2518 info: POST /validate/token 200 71.812 ms - 228
+2021-07-18 20:25:18:2518 info: POST /validate/addUser 200 48.371 ms - 38
+2021-07-18 20:25:18:2518 info: GET /person/getPersons 200 6.052 ms - 22
+2021-07-18 20:25:18:2518 info: GET /person/getPersons/1 200 4.110 ms - 22
+2021-07-18 20:25:18:2518 info: POST /person/addPerson 200 9.039 ms - 38
+2021-07-18 20:25:18:2518 info: POST /person/updatePerson 200 8.062 ms - 38
+2021-07-18 20:25:18:2518 info: POST /person/deletePerson 200 4.310 ms - 38
+2021-07-18 20:25:41:2541 info: Servidor corriendo en http://localhost:3000
+2021-07-18 20:25:41:2541 info: POST /validate/token 200 73.514 ms - 228
+2021-07-18 20:25:41:2541 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 20:25:41:2541 info: POST /validate/addUser 200 13.412 ms - 22
+2021-07-18 20:25:41:2541 info: GET /person/getPersons 200 5.740 ms - 22
+2021-07-18 20:25:41:2541 info: GET /person/getPersons/1 200 3.994 ms - 22
+2021-07-18 20:25:41:2541 info: POST /person/addPerson 200 8.397 ms - 38
+2021-07-18 20:25:41:2541 info: POST /person/updatePerson 200 9.332 ms - 38
+2021-07-18 20:25:41:2541 info: POST /person/deletePerson 200 5.352 ms - 38
+2021-07-18 20:32:37:3237 info: Servidor corriendo en http://localhost:3000
+2021-07-18 20:32:37:3237 info: POST /validate/token 200 73.815 ms - 228
+2021-07-18 20:32:37:3237 error: Error SQL Query: Duplicate entry 'cliente' for key '_users'
+2021-07-18 20:32:37:3237 info: POST /validate/addUser 200 13.223 ms - 22
+2021-07-18 20:32:37:3237 info: GET /person/getPersons 200 6.395 ms - 119
+2021-07-18 20:32:37:3237 info: GET /person/getPersons/1 200 5.053 ms - 22
+2021-07-18 20:32:37:3237 info: POST /person/addPerson 200 8.529 ms - 38
+2021-07-18 20:32:37:3237 info: POST /person/updatePerson 200 7.732 ms - 38
+2021-07-18 20:32:37:3237 info: POST /person/deletePerson 200 4.668 ms - 38
