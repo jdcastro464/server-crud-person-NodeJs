@@ -27,7 +27,7 @@ Espero que aprendan a crear un crud simple guiandose de este proyecto personal..
         - **controller.js** es la parte logica de la información proporcionada por una ruta "network.js"
         - **store.js** se encarga de recibir la información de nuestro controller y enviarsela al modelo
         - **model.js** es una Clase del componente espeficico el cual contiene todos los metodos necesarios para ser usados en las rutas del componente.
-- *¡Nota Importante!* para poder hacer uso de las rutas es necesario contar con un token este se obtiene de la ruta _http://localhost:[PORT]/validate/token_ y este recibe un Objecto con user y pass el cual por defecto es { "user": "administrador", "pass": "admin2021**" }
+- *¡Nota Importante!* para poder hacer uso de las rutas es necesario contar con un token este se obtiene de la ruta _http://localhost:[PORT]/validate/token_ y este recibe un Object con user y pass el cual por defecto es { "user": "administrador", "pass": "admin2021**" }
 
 ### Requisitos 📥
 
@@ -38,8 +38,8 @@ Espero que aprendan a crear un crud simple guiandose de este proyecto personal..
 ### Instalación ⚙ 💽
 
 ```
-1. Instalar dependencias **npm install**
-2. Inicar el proyecto development **npm run dev**
+1. Instalar dependencias: npm install
+2. Inicar el proyecto development: npm run dev
 ```
 
 ### Pruebas Unitarias 📋🛠
