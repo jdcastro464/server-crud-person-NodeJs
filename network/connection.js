@@ -9,5 +9,8 @@ const pool = mysql.createPool({
 })
 
 const connection = pool.promise()
+if(connection) {
+    console.log('Conectado a BD')
+}
 
 module.exports = { connection }
